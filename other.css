@@ -1,0 +1,38 @@
+@media (min-width: 1370px) and (max-width: 1488px){
+    #directors {
+        width: 610px;
+    }
+    #CEO_vertical {
+        left: 56.5%;
+    }
+    #CEO_horizontal {
+        width: 547px;
+        left: 36.90%;
+    }
+    #CRO_horizontal {
+        right: 13%;
+    }
+    #CMO_vertical {
+        left: -4%;
+        width: 375px;
+    }
+    #communication_horizontal {
+        right: -30%;
+    }
+    #CMO_horizontal {
+        left: 50%;
+    }
+    #public_relation_horizontal {
+        right: -35%;
+    }
+    #tresury_horizontal {
+        right: -32%;
+    }
+    #CRO_vertical {
+        width: 370px;
+        left: -20%;
+    }
+    #talent_acquisition_horizontal {
+        right: -34%;
+    }
+}
