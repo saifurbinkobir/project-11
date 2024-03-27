@@ -1,56 +1,194 @@
-@media (min-width: 1340px) and (max-width: 1400px){
+@media (min-width: 1024px) and (max-width: 1280px){
     #directors {
-        width: 42.5%;
-    }
-    #CMO_vertical {
-        width: 101%;
-    }
-}
-@media (min-width: 1900px) and (max-width: 1920px){
-    #directors {
-        width: 38%;
+        width: 44.5%;
     }
     #directors_vertical {
-        width: 625px;
-        left: 10%;
+        left: 13%;
+    }
+    .CEO {
+        margin-left: 12%;
     }
     #CEO_vertical {
-        left: 53%;
-    }
-    .board_child {
-        left: -2%;
-    }
-    #CMO_horizontal {
-        left: 30.4%;
+        left: 59.5%;
     }
     #CEO_horizontal {
-        width: 37.8%;
-        left: 32.1%;
+        width: 38.5%;
+    }
+    .board_child {
+        left: 10%;
+    }
+    #CMO_horizontal {
+        left: 56.3%;
+    }
+    #CEO_horizontal {
+        left: 38.2%;
+    }
+    .board_child2 {
+        left: 3%;
     }
     #CRO_horizontal {
-        right: 43%;
+        right: -7%;
     }
     #communication_horizontal {
-        right: -15%;
+        right: -45%;
     }
     #public_relation_horizontal {
-        right: -15%;
+        right: -45%;
+    }
+    #tresury_horizontal {
+        right: -45%;
+    }
+    #talent_acquisition_horizontal {
+        right: -45%;
     }
     #CMO_vertical {
         width: 101.5%;
-        left: -19%;
+        left: 8.5%;
+    }
+    #CRO_vertical {
+        width: 102%;
+        left: -8.5%;
+    }
+}
+@media (min-width: 1281px) and (max-width: 1366px){
+    #directors {
+        left: 19%;
+    }
+    #directors_vertical {
+        left: 13%;
+    }
+    #CEO_vertical {
+        left: 57.5%;
+    }
+    #CEO_horizontal {
+        left: 38%;
+        width: 38%;
+    }
+    .board_child {
+        left: 12%;
+    }
+    .board_child2 {
+        left: -2%;
+    }
+    #CMO_horizontal {
+        left: 55.3%;
+    }
+    #CMO_vertical {
+        width: 101.5%;
+        left: 4%;
+    }
+    #CRO_horizontal {
+        right: 0%;
+    }
+    #CRO_vertical {
+        left: -12.7%;
+    }
+    #communication_horizontal {
+        right: -40%;
+    }
+    #public_relation_horizontal {
+        right: -40%;
+    }
+    #tresury_horizontal {
+        right: -40%;
+    }
+    #talent_acquisition_horizontal {
+        right: -40%;
+    }
+}
+@media (min-width: 1367px) and (max-width: 1400px){
+    #directors {
+        left: 19%;
+    }
+    #directors_vertical {
+        left: 13%;
+    }
+    #CEO_vertical {
+        left: 57.5%;
+    }
+    #CEO_horizontal {
+        left: 38%;
+        width: 38%;
+    }
+    .board_child {
+        left: 12%;
+    }
+    .board_child2 {
+        left: -2%;
+    }
+    #CMO_horizontal {
+        left: 55.3%;
+    }
+    #CMO_vertical {
+        width: 101.5%;
+        left: 4%;
+    }
+    #CRO_horizontal {
+        right: 0%;
+    }
+    #CRO_vertical {
+        left: -12.7%;
+    }
+    #communication_horizontal {
+        right: -40%;
+    }
+    #public_relation_horizontal {
+        right: -40%;
+    }
+    #tresury_horizontal {
+        right: -40%;
+    }
+    #talent_acquisition_horizontal {
+        right: -40%;
+    }
+}
+@media (min-width: 1890px) and (max-width: 1930px){
+    #directors {
+        width: 37.5%;
+    }
+    #directors_vertical {
+        left: 10%;
+    }
+    .CEO {
+        margin-left: 3%;
+    }
+    #CEO_vertical {
+        left: 52.5%;
+    }
+    #CEO_horizontal {
+        left: 32.4%;
+        width: 37.1%;
+    }
+    .board_child {
+        left: -1%;
     }
     .board_child2 {
         left: -16%;
     }
-    #tresury_horizontal {
-        right: -15%;
+    #CMO_horizontal {
+        left: 31.3%;
     }
-    #talent_acquisition_horizontal {
-        right: -15%;
+    #CMO_vertical {
+        width: 101.6%;
+        left: -20.5%;
+    }
+    #CRO_horizontal {
+        right: 45%;
     }
     #CRO_vertical {
-        width: 101%;
-        left: -35.5%;
+        width: 101.5%;
+        left: -37.6%;
+    }
+    #communication_horizontal {
+        right: -12%;
+    }
+    #public_relation_horizontal {
+        right: -12%;
+    }
+    #tresury_horizontal {
+        right: -12%;
+    }
+    #talent_acquisition_horizontal {
+        right: -12%;
     }
 }
